@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>code2</title>
+		<link rel="stylesheet" href="code2.css">
+	</head>
+	<body>
+		<div class="container">
+			<header>
+				<h1>My layout</h1>
+			</header>
+			<nav>
+				<ul>
+					<li><a href="#">Intro</a></li>
+					<li><a href="#">Hobby/a></li>
+					<li><a href="#">Question</a></li>
+				</ul>
+			</nav>
+			<article>
+				<p>Greeting, I am the owener of this website. My name is K1vin. I love coding, volleyball, and reading. It`s my pleasure to meet u.</p>
+			</article>
+			<footer>
+				<p>author: k1vin</p>
+			</footer>

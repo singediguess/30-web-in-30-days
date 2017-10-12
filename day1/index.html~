@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>day1 - 2017/10/12</title>
+		<link rel="stylesheet" href="styles.css">
+	</head>
+	<body>
+		<h1>hellod my challege</h1>
+		<p>good <strong>luck!</strong></p>
+		<table>
+			<tr>
+				<th>skills that Im interested in</th>
+				<th>things that I should do</th>
+			</tr>
+			<tr>
+				<td>git and github</td>
+				<td>microelectronics HW</td>
+			</tr>
+		</table>
+		<iframe src="https://www.facebook.com/"></iframe>
+	</body>
+</html>
