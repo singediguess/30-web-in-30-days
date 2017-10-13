@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-HANT">
+	<head>
+		<title>k1vin`s day2 web</title>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+	<body>
+		<img src="https://i.ytimg.com/vi/FqhNrIpJKNc/maxresdefault.jpg" style="max-width:50%;height=auto;">
+		<br>
+		<p>Research</p>
+		<form>
+			Your name:<br>
+			<input type="text" name="name" value="your name">
+			<br>
+			Id number:<br>
+			<input type="text" name="id" value="ID">
+			Password:<br>
+			<input type="password" name="psw">
+			<br>
+			<input type="submit" value="Submit">
+			<input type="reset">
+		</form>
+		<br>
+		<p>I want something...</p>
+		<button type="button" onclick="alert('I want a big house!')">Click!!!</button>
+		<br>
+		<p>Join or Die, that`s the question.</p>
+		<form>
+			<input type="radio" name="ques" value="join" checked>Join<br>
+			<input type="radio" name="ques" value="join">Die<br>
+		</form>
+		<br>
+		<p>My to-do-list</p>
+		<form>
+			<input type="checkbox" name="thing1" value="Prob">Probability Exam1<br>
+			<input type="checkbox" name="thing2" value="ckt">Circuits Exam1<br>
+		</form>
+	</body>
+</html>
+
